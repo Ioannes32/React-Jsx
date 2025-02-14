@@ -1,4 +1,4 @@
-# Portfolio Website
+# Simple Portfolio Website
 
 This is a simple project showcases my small skills, introduction, and a little about me as a Computer Science student. It is built using **React** and **Bootstrap** for styling.
 
