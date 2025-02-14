@@ -23,10 +23,13 @@ To run this project locally, follow these steps:
    git clone https://github.com/your-username/your-repo-name.git
 
 2. **Navigate to the project directory**:
+    ```bash
     cd your-repo-name
 
 3. **Install dependencies**:
+    ```bash
     npm install
 
 4. **Run the Development Sever**:
+    ```bash
     npm run dev
